@@ -8,7 +8,7 @@ require (
 	github.com/go-logr/logr v1.2.2
 	github.com/golang/mock v1.5.0
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.17.0
+	github.com/onsi/gomega v1.18.1
 	github.com/openshift/api v0.0.0-20220429222041-b25f69a603a7
 	github.com/openshift/machine-api-operator v0.2.1-0.20220509160407-25e61c2d0120
 	k8s.io/api v0.23.0
@@ -16,7 +16,7 @@ require (
 	k8s.io/client-go v0.23.0
 	k8s.io/klog/v2 v2.30.0
 	k8s.io/utils v0.0.0-20211208161948-7d6a63dca704
-	sigs.k8s.io/controller-runtime v0.11.0
+	sigs.k8s.io/controller-runtime v0.11.1-0.20220318131917-5636d975d88e
 	sigs.k8s.io/controller-tools v0.7.0
 )
 
